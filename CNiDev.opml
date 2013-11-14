@@ -119,6 +119,10 @@
 				title="老谭" type="rss"
 				htmlUrl="http://www.tanhao.me" 
 				xmlUrl="http://www.tanhao.me/feed" />
+			<outline text="Meet @fannheyward" 
+				title="Meet @fannheyward" type="rss"
+				htmlUrl="http://fann.im/" 
+				xmlUrl="http://fann.im/atom.xml" />
 		</outline>
 	</body>
 </opml>
