@@ -111,6 +111,14 @@
 				title="iPhone 开发技术" type="rss"
 				htmlUrl="http://iphone.ipsw.info/" 
 				xmlUrl="http://iphone.ipsw.info/atom.xml" />
+			<outline text="Rainbird" 
+				title="Rainbird的个人博客" type="rss"
+				htmlUrl="http://blog.cnrainbird.com" 
+				xmlUrl="http://blog.cnrainbird.com/index.php/feed/" />
+			<outline text="老谭" 
+				title="老谭" type="rss"
+				htmlUrl="http://www.tanhao.me" 
+				xmlUrl="http://www.tanhao.me/feed" />
 		</outline>
 	</body>
 </opml>
