@@ -44,3 +44,7 @@ CNiDev 遵循 [WTFPL](http://zh.wikipedia.org/zh-cn/WTFPL) 协议，俗称“爱
   0. You just DO WHAT THE FUCK YOU WANT TO.
 
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lexrus/cnidev/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
