@@ -123,6 +123,10 @@
 				title="Meet @fannheyward" type="rss"
 				htmlUrl="http://fann.im/" 
 				xmlUrl="http://fann.im/atom.xml" />
+			<outline text="ohdaring88" 
+				title="Architecting Life" type="rss"
+				htmlUrl="http://xujiwei.com/blog/" 
+				xmlUrl="http://feeds.feedburner.com/xujiwei" />
 		</outline>
 	</body>
 </opml>
