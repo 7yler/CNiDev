@@ -127,6 +127,10 @@
 				title="Architecting Life" type="rss"
 				htmlUrl="http://xujiwei.com/blog/" 
 				xmlUrl="http://feeds.feedburner.com/xujiwei" />
+			<outline text="吴发伟Ted"
+				title="吴发伟Ted" type="rss"
+				htmlUrl="http://wufawei.com/"
+				xmlUrl="http://wufawei.com/feed/" />
 		</outline>
 	</body>
 </opml>
