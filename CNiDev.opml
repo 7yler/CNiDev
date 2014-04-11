@@ -131,6 +131,15 @@
 				title="吴发伟Ted" type="rss"
 				htmlUrl="http://wufawei.com/"
 				xmlUrl="http://wufawei.com/feed/" />
+			<outline text="Nonomori"
+			        title="Nonomori" type="rss"
+			        htmlUrl="http://nonomori.farbox.com/"
+			        xmlUrl="http://nonomori.farbox.com/feed" />
+			<outline text="KooFrank"
+			        title="KooFrank" type="rss"
+			        htmlUrl="http://koofrank.com/"
+			        xmlUrl="http://koofrank.com/atom.xml" />
+			
 		</outline>
 	</body>
 </opml>
