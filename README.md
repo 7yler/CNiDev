@@ -7,7 +7,7 @@
 
 ## 咋用呢？
 
-- 先下载这个项目的 zip 文件解压出 CNiDev.opml，或者单独下载它
+- 先下载[这个项目的 zip 文件](https://github.com/lexrus/CNiDev/archive/master.zip)解压出 CNiDev.opml，或者[单独下载它](https://raw.githubusercontent.com/lexrus/CNiDev/master/CNiDev.opml)
 - 你得找个支持导入 OPML 的在线阅读器（推荐 [Feedly](http://feedly.com) 和 [Digg Reader](http://digg.com/reader)），假设你已经有了，找一下导入 OPML 的页面
 - 上传 CNiDev.opml 后看到 CNiDev 这个文件夹就对了
 
