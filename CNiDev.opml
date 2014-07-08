@@ -139,7 +139,10 @@
 			        title="KooFrank" type="rss"
 			        htmlUrl="http://koofrank.com/"
 			        xmlUrl="http://koofrank.com/atom.xml" />
-			
+			<outline text="猫·仁波切"
+				title="猫·仁波切" type="rss"
+				htmlUrl="https://andelf.github.io/"
+				xmlUrl="https://andelf.github.io/atom.xml" />
 		</outline>
 	</body>
 </opml>
