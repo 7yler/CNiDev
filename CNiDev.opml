@@ -147,6 +147,10 @@
 				title="不掏蜂窝的熊" type="rss"
 				htmlUrl="http://www.hotobear.com/"
 				xmlUrl="http://www.hotobear.com/?feed=rss2" />
+			<outline text="bang"
+				title="bang" type="rss"
+				htmlUrl="http://blog.cnbang.net/"
+				xmlUrl="http://blog.cnbang.net/feed/" />
 		</outline>
 	</body>
 </opml>
