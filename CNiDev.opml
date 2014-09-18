@@ -151,6 +151,10 @@
 				title="bang" type="rss"
 				htmlUrl="http://blog.cnbang.net/"
 				xmlUrl="http://blog.cnbang.net/feed/" />
+			<outline text="汪海洋"
+				title="Why's Blog" type="rss"
+				htmlUrl="http://blog.callmewhy.com/"
+				xmlUrl="http://blog.callmewhy.com/atom.xml" />
 		</outline>
 	</body>
 </opml>
