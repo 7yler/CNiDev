@@ -155,6 +155,10 @@
 				title="Why's Blog" type="rss"
 				htmlUrl="http://blog.callmewhy.com/"
 				xmlUrl="http://blog.callmewhy.com/atom.xml" />
+			<outline text="叶纯俊"
+				title="Chun Tips" type="rss"
+				htmlUrl="http://chun.tips"
+				xmlUrl="http://chun.tips/atom.xml" />
 		</outline>
 	</body>
 </opml>
